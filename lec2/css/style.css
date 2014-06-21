@@ -1,0 +1,23 @@
+.my-div{
+	width:400px;
+	height: 100px;
+	background: red;
+	margin-left: 200px;
+	border:10px solid black;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 10px;
+	margin-bottom: 40px;
+
+}
+.second-div{
+	/*border:10px solid grey;*/
+	background: green;
+	/*padding: 50px;*/
+	/*width: 100%;*/
+	width: 500;
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+}
+

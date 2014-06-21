@@ -1,0 +1,108 @@
+
+Tasks
+- As a Sales Person change Lead Status from Open to Prospect then create new stage '1. Prospect', and 
+task status should be Open. 
+- Once Lead Status is changed to '2. Introduction Email' then automatically send email to Lead email provided. 
+Also, status should change to '3. Open-Call' then based on call disposition 'In-person Consultation' 
+a. Create a New Event for Consultation Appointment
+b. Send Email with 'Potfolio' and 'Service Introduction'
+c. Change Lead Status to '4. In-person Consultation'. 
+
+- Once the status has been changed to '4. In-person Consultation' then 24hrs before the appointment time, please 
+send Email agenda to both photographer and Lead. 
+- Once the Event (Consultation) has expired then change Lead Status to '5. Followup0 Call' and and create 
+a task '5. Followup Call'
+
+
+Lead Status
+- Open
+- Prospecting
+- Introduction Email
+- Opening Call
+- In-person Consultation
+- Followup Call
+- Closing Call
+- Photography Appointment
+- Photo Transfer
+- Referral Request
+- 30 day callback
+
+
+
+
+
+Task Stage
+- Prospect
+- Send Email
+- 1st Call
+- Send Email
+- Followup- Call
+- Callback
+
+
+Task Result
+?
+
+
+Event Stages
+- In-person Consultation
+- Photography Appointment
+
+
+Event Result
+- Followup call
+- Photo Transfer
+
+Tasks
+- As a Sales Person change Lead Status from Open to Prospect then create new stage '1. Prospect', and 
+task status should be Open. 
+- Once Lead Status is changed to '2. Introduction Email' then automatically send email to Lead email provided. 
+Also, status should change to '3. Open-Call' then based on call disposition 'In-person Consultation' 
+a. Create a New Event for Consultation Appointment
+b. Send Email with 'Potfolio' and 'Service Introduction'
+c. Change Lead Status to '4. In-person Consultation'. 
+
+- Once the status has been changed to '4. In-person Consultation' then 24hrs before the appointment time, please 
+send Email agenda to both photographer and Lead. 
+- Once the Event (Consultation) has expired then change Lead Status to '5. Followup0 Call' and and create 
+a task '5. Followup Call'
+
+
+Lead Status
+- Open
+- Prospecting
+- Introduction Email
+- Opening Call
+- In-person Consultation
+- Followup Call
+- Closing Call
+- Photography Appointment
+- Photo Transfer
+- Referral Request
+- 30 day callback
+
+
+
+
+
+Task Stage
+- Prospect
+- Send Email
+- 1st Call
+- Send Email
+- Followup- Call
+- Callback
+
+
+Task Result
+?
+
+
+Event Stages
+- In-person Consultation
+- Photography Appointment
+
+
+Event Result
+- Followup call
+- Photo Transfer

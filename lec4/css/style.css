@@ -1,0 +1,33 @@
+.wrapper{
+	width: 50%;
+	margin:0 auto;
+	background: #ffeeff;
+}
+
+
+.menu{
+	overflow: hidden;
+}
+.menu>li{
+	float:left;
+	width: 100px;
+	background: #bbeebb;
+	padding-left: 25px;
+	position: relative;
+}
+
+.menu li:hover{
+	background: #aa9922;
+	display:block;
+}
+
+.submenu{
+	width: 120px;
+	display:none;
+	position: absolute;
+	left: -25px;
+}
+
+.menu li:hover .submenu{
+	display:block;
+}

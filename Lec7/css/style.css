@@ -1,0 +1,50 @@
+/*
+    MAIN STYLES
+*/
+
+body{
+    background: url(../img/bg-main.png) 0 0 repeat;
+    font-size: 18px;
+    min-width: 480px;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 154px auto 50px;
+    background-color: #fff;
+    border: 3px solid #fff;
+    border-radius: 5px;
+    padding: 20px;
+    overflow:hidden;
+}
+
+.blocks {
+    display: block;
+}
+.blocks li{
+    display: block;
+    float:left;
+    width:100px;
+    height:100px;
+    background: grey;
+    margin: 10px;
+}
+
+@media screen and (max-width:567px){
+    .blocks li{
+        background: yellow;
+    }
+}
+
+@media screen and (max-width: 767px) and (min-width: 568px){
+    .blocks li{
+        background: green;
+        margin: 10px 0;
+    }
+}
+
+
+
+.comment{
+    border: 1px solid black;
+}

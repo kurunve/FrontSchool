@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backround",
+				"background"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fv",
+				"fv	font-variant"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font-we",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"list-style",
+				"list-style-image"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"heih",
+				"height"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"content-",
+				"content-text"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"g",
+				"bg-ie	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='${1:x}.png',sizingMethod='${2:crop}');"
+			],
+			[
+				"conten",
+				"image-content"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"menu",
+				"menu-top"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"bo",
+				"menu-bottom"
+			],
+			[
+				"men",
+				"menu-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"backgro",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n!\n<html>\n	<head>\n		<title>Homework #1</title>\n		<meta charset=\"UTF-8\"/>\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"styles\\style.css\">	\n	</head>\n	<body>\n		<div id=\"head\">\n			<h1> Антонюк Володимир Тарасович </h1>\n		</div>\n		<div id=\"image\">\n			<img src=\"images/myself.JPG\">\n		</div>\n		<div id=\"content\">\n			<div class=\"contentText\">\n				Студент Вагонопогрузочного Университета - Угольный факультет\n			</div>\n			<div>\n				<hr/>\n			</div>\n			<div class=\"headerText\">\n				 Хочу учить фронтенд, потому что:\n			</div>\n			<div class=\"contentText\">\n				<ul>\n					<li>Не хочу разгружать вагоны с углем</li>\n					<li>Платять мало</li>\n					<li>Хочу спать ночами иногда</li>\n					<li>Не хочу работать с Salesforce</li>\n				</ul>\n			</div>\n			<div>\n				<hr/>\n			</div>\n			<div class=\"headerText\">\n					Мой контактный телефон:\n			</div>\n			<div class=\"contentText\">\n				+380 12 345 67 89\n			</div>\n			\n			<br/>\n\n			<div class=\"headerText\">\n				Мой профиль в контакте:\n			</div>\n			<div class=\"contentText\">\n				<a href=\"http://vk.com/v.antonuk\" target=\"_blank\">vk.com/v.antonuk</a>\n			</div>\n			<div>\n				<hr/>\n			</div>\n\n			<div class=\"headerText\">\n				Мой фидбек:\n			</div>	\n\n			<div class=\"contentText\">\n				Могу разгружать вагоны с углем, или, на худой конец, создать что-то связанное с salesforce.\n			</div>\n				\n			\n		</div>\n	</body>\n</html>\n",
+			"file": "/E/hobby/FrontEndSchool/HomeTask1/index.html",
+			"file_size": 1710,
+			"file_write_time": 130385656160624715,
+			"settings":
+			{
+				"buffer_size": 1355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nEmmet Style Reflector:\n---------------------\n\n  Thank you for installing Emmet Style Reflector.\n  \n  For more information please visit https://github.com/eecolella/emmet-style-reflector.\n  \n  Note you may need to restart Sublime Text after installing this plugin.\n  \n  If you have any questions, comments, or run into issues, please let me know! Hope you enjoy the plugin.\n  \n  Thank you!\n",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"JAVA",
+				"Set Syntax: Java"
+			],
+			[
+				"syntax: B",
+				"Set Syntax: Batch File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 142.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/E/hobby/FrontEndSchool/lec10/New Text Document.txt",
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/hobby/FrontEndSchool/homeTask3/css/reset.css",
+		"/E/hobby/FrontEndSchool/Lec6/index.html",
+		"/E/hobby/FrontEndSchool/homeTask3/lesson3.html",
+		"/E/hobby/FrontEndSchool/homeTask3/css/style.css",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/TransactionBatchMapper.cls",
+		"/E/hobby/FrontEndSchool/Lec8/js/script.js",
+		"/E/Dropbox/FreeLance/sparkn/page.html",
+		"/C/Users/lord/Desktop/rsa_01_encryption.pde",
+		"/E/Dropbox/Arduino/cryptographic-protocols-arduino-and-PC-master/cryptographic-protocols-arduino-and-PC-master/digital_signature/arduino/digisign/md5.h",
+		"/E/Dropbox/Arduino/cryptographic-protocols-arduino-and-PC-master/cryptographic-protocols-arduino-and-PC-master/key_exchange_RSA/arduino/rsa_aes_protocol.ino",
+		"/E/Dropbox/Arduino/cryptographic-protocols-arduino-and-PC-master/cryptographic-protocols-arduino-and-PC-master/digital_signature/arduino/digisign/util.h",
+		"/E/Dropbox/Arduino/cryptographic-protocols-arduino-and-PC-master.zip",
+		"/E/hobby/FrontEndSchool/Lec8/index.html",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/LoanApplicationPLExtensionTest.cls",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/UKCaseExtension.cls",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/components/WaitingButton.component",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/AccountEditRedirect.page",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/pages/TransactionApprover.page",
+		"/E/hobby/FrontEndSchool/Lec8/css/style.css",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/components/SetTabTitle.component",
+		"/C/Users/lord/Desktop/Service Proposal.html",
+		"/E/hobby/ruby/ruby-calisthenics/lib/fun_with_strings.rb",
+		"/E/hobby/ruby/ruby-calisthenics/spec/fun_with_strings_spec.rb",
+		"/E/hobby/ruby/ruby-calisthenics/.rspec",
+		"/E/hobby/ruby/ruby-calisthenics/README.md",
+		"/E/hobby/FrontEndSchool/Lec7/index.html",
+		"/E/hobby/FrontEndSchool/Lec7/css/style.css",
+		"/E/hobby/FrontEndSchool/Lec7/img/bg-main.png",
+		"/C/Ruby193/lib/ruby/1.9.1/rss/itunes.rb",
+		"/E/hobby/FrontEndSchool/Lec7/css/reset.css",
+		"/E/hobby/FrontEndSchool/FS/cat.jpg",
+		"/E/hobby/FrontEndSchool/Lec6/css/style.css",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/pages/TransactionUploader.page",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/TransactionUploaderController.cls",
+		"/D/Protest/Protest/Protest/Protest.exe.config",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/triggers/ActionTrigger.trigger",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/triggers/CaseTrigger.trigger",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/TriggerHandler.cls",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/CaseHandler.cls",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/CampaignHandler.cls",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/CampaignMapper.cls",
+		"/E/VAdev/VAdev_code/salesforce_apex/src/classes/TestDataClass.cls",
+		"/C/Users/lord/Desktop/hw0p1.rb",
+		"/C/Users/lord/Desktop/hw0p2.rb",
+		"/C/Users/lord/Desktop/hw0p3.rb",
+		"/E/hobby/FrontEndSchool/Lec6/css/reset.css",
+		"/E/hobby/FrontEndSchool/Lec6/img/statistic-icon.png",
+		"/E/Dropbox/FreeLance/Web.config",
+		"/E/hobby/AniaProject/MyProject/DatabaseScripts/init2.sql",
+		"/E/hobby/AniaProject/MyProject/DatabaseScripts/init.sql",
+		"/E/Dropbox/FreeLance/WebServicesAPIv2_wsdl - Copy.xml",
+		"/E/hobby/AniaProject/MyProject/DatabaseScripts/create_database.bat",
+		"/E/hobby/AniaProject/MyProject/DatabaseScripts/BlolgDatabase.sql",
+		"/E/Dropbox/FreeLance/FlexiCaptureAPI0.chm",
+		"/E/hobby/FrontEndSchool/Lec5/index.html",
+		"/E/hobby/FrontEndSchool/Lec5/css/style.css",
+		"/E/hobby/AniaProject/keys/public",
+		"/E/hobby/AniaProject/MyProject/README.md",
+		"/E/hobby/FrontEndSchool/HomeTask4/Part1/HomeTask4p1.html",
+		"/E/hobby/FrontEndSchool/HomeTask4/Part1/css/style.css",
+		"/E/hobby/FrontEndSchool/lec4/lesson4.html",
+		"/E/hobby/FrontEndSchool/lec4/css/style.css",
+		"/E/hobby/FrontEndSchool/HomeTask2/style/style.css",
+		"/E/hobby/FrontEndSchool/lec3/css/style.css",
+		"/E/hobby/FrontEndSchool/lec3/css/reset.css",
+		"/E/hobby/FrontEndSchool/lec3/lesson3.html",
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/hobby/FrontEndSchool/lec2/css/style.css",
+		"/E/hobby/FrontEndSchool/lec3/lesson2.html",
+		"/E/hobby/FrontEndSchool/lec3/img/logo.png",
+		"/E/hobby/FrontEndSchool/lec3/img/header-bg.png",
+		"/E/hobby/FrontEndSchool/HomeTask2/hw2.html",
+		"/E/hobby/FrontEndSchool/HomeTask1/HomeTask1.rar",
+		"/E/hobby/FrontEndSchool/HomeTask1/index.html",
+		"/E/hobby/FrontEndSchool/lec2/lesson2.html",
+		"/C/Users/lord/Desktop/blindled/blindled.ino",
+		"/E/hobby/FrontEndSchool/HomeTask2/style/reset.css",
+		"/E/hobby/FrontEndSchool/HomeTask2/test.rb",
+		"/E/hobby/FrontEndSchool/HomeTask2/Content/FS_homework2.jpg",
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/E/hobby/FrontEndSchool/Lec1/test1.html",
+		"/C/Users/lord/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/E/hobby/FrontEndSchool/lec2/img/cat.jpg"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"!\n",
+			"!",
+			"symb",
+			"whitesp",
+			"Edit | Del	",
+			"md5sum",
+			"!\");",
+			"debug",
+			"Error",
+			"checkAdditionalInputParameters",
+			"Lorem",
+			"WebServiceCallout",
+			" invoke",
+			"endpoint_x",
+			"documents_element",
+			"class Document",
+			"Document",
+			"File",
+			"Batch ",
+			"Url",
+			"Project",
+			"projects_element",
+			"projects_element ",
+			"GetProjects",
+			"Project",
+			"FlexiCapture",
+			"FlexiCapture.Project",
+			"FlexiCapture",
+			"OpenSession",
+			"Properties_element",
+			"properties_element",
+			"Properties_element",
+			"Documents_element",
+			"documents_element",
+			"document_element",
+			"documents",
+			"Documents",
+			"documents",
+			"DDocument",
+			"Document",
+			"element",
+			"Document",
+			"\"Document\"",
+			"Documents",
+			"Document",
+			"Documents_element",
+			"Element",
+			"DocumentE",
+			"Document",
+			"Documentselement",
+			"Documents_element",
+			"create table",
+			"aspnet_UsersInRoles_AddUsersToRoles",
+			"post",
+			"collate",
+			"aspnet_UsersInRoles_AddUsersToRoles",
+			"aspnet_UsersInRoles_AddUsersToRoles\n",
+			"blolgDatabase",
+			"Blog",
+			"DROP",
+			"Database",
+			"blog",
+			"BlolgDatabase",
+			"BlogDatabase",
+			"BlolgDatabase",
+			"fv",
+			"totop",
+			"linear",
+			"post-content-see-more",
+			"post-content-button",
+			"see-more-post-content",
+			" a",
+			"\"cell-with-pic\"",
+			"\"cell-without-pic\"",
+			"padding",
+			"font",
+			"see",
+			".\n",
+			"f",
+			"footer",
+			"menu-",
+			"image",
+			"height",
+			"font",
+			"ma",
+			"text-content",
+			"image-content",
+			"menu-left",
+			"left",
+			"ul",
+			"to ",
+			"heig",
+			"border",
+			"			\n",
+			"_blank",
+			"]\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"PProperties_element",
+			"DDocument",
+			"to top",
+			"content-button",
+			"post-content-button",
+			"\"cell\"",
+			"content-text",
+			"content-image",
+			"hw2.html"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/hobby/FrontEndSchool/HomeTask1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 33.0
+	},
+	"project": "testproject.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

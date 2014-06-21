@@ -1,0 +1,36 @@
+body{
+	background-color: black;
+}
+div{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border:groove;
+	border-color: red;
+	border-width: 2px;
+	border-radius: 10px;
+	padding: 8px;
+	background-color: #aaaaab
+}
+.li_special{
+	color:green;
+	list-style:none;
+	font-size: 18px;
+}
+#my-div{
+	background-color: grey;
+	text-align: justify;
+	font-size: 26px;
+}
+
+li 
+{
+	list-style:lower-greek;
+	list-style-position:outside;
+	color:red;
+	font-weight: bold;
+}
+ul 
+{
+	background-color: rgb(250,200,240);
+}

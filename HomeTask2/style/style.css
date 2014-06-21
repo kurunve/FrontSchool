@@ -1,0 +1,158 @@
+body{
+	margin-left: auto;
+	margin-right: auto;
+
+	background: #f9f9f9
+}
+
+.wrapper{
+	width:966px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px 48px 60px 47px;
+
+	border-right:1px solid #c8c8c8;
+	border-left: 1px solid #c8c8c8;
+
+	background: #ffffff;
+}
+
+.header{
+	margin-bottom:40px;
+}
+
+.menu-top{
+	width: 960px;
+	/*height: 41px;*/
+	margin: 0px 0px 40px 0px;
+
+	background: #5c5c5c;
+	background: linear-gradient(to top, #444444, #5c5c5c);
+}
+
+.horizontal-menu{
+	/*height: 41px;*/
+}
+
+.horizontal-menu li{
+	float: left;
+}
+
+.menu-top{
+	overflow:hidden;
+}
+.menu-top a{
+	display: block;
+	margin-left:20px;
+	padding: 10px 30px;
+
+	border-right:1px solid rgba(0,0,0,0);
+	border-left: 1px solid rgba(0,0,0,0);
+	
+	color:white;
+	font-size: 14pt;
+	font-style: normal;
+	font-variant: normal;
+	text-decoration: none;
+}
+
+.menu-top a:hover{
+	border-left: 1px solid white;
+	border-right:1px solid white;
+
+	background: #484848;
+	background: linear-gradient(to top, #2d2d2d, #484848); 
+}
+
+
+.menu-left{
+	float:left;
+	width: 238px;
+}
+
+.menu-left li{
+	border-top: 1px solid #c8c8c8;
+	border-left: 1px solid #c8c8c8;
+	border-right: 1px solid #c8c8c8;
+}
+
+.menu-left li:last-child{
+	border-bottom: 1px solid #c8c8c8;
+}
+
+.menu-left a{
+	display: block;
+	padding:9px 0px 9px 20px;
+
+	color:grey;
+	font-size: 12pt;
+	font-style: normal;
+	font-variant: normal;
+	text-decoration: none;
+}
+
+.menu-left a:hover{
+	padding-left:30px;
+
+	color:black;
+	background: #f9f9f9;
+}
+
+.content{
+	width:650px;
+	margin-left:280px;
+}
+
+.content-image{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	padding: 30px 127px 30px 50px;
+	border: 1px solid #c8c8c8;
+}
+
+.content-text{
+	padding:0px 12px;
+
+	color: #2c2c2c;
+	font-size: 10pt;
+	font-family: Verdana, sans-serif;
+	line-height: 1.5;
+}
+
+.footer{
+	width:960px;
+	/*height: 40px;*/
+	margin-top: 40px;
+	font-size: 11pt;
+}
+
+.menu-bottom{
+	/*height: 40px;*/
+	background: #e1e1e1
+}
+
+.menu-bottom a{
+	display: block;
+	margin-left:20px;
+	padding: 12px 30px;
+
+	color:black;
+	font-style: normal;
+	font-variant: normal;
+	text-decoration: none;
+}
+
+.menu-bottom a:hover{
+	text-decoration: underline;
+}
+
+.copyright{
+	float:right;			
+	/*height:40px;*/
+
+	text-align: center;
+	vertical-align: middle;
+	line-height: 45px;
+}
